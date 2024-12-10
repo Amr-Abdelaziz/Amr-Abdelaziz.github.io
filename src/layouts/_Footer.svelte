@@ -79,7 +79,7 @@
             />
           </FooterIcon>
           <FooterIcon
-            href="https://github.com/weilinear"
+            href="https://github.com/Amr-Abdelaziz"
             target="_blank"
           >
             <GithubSolid

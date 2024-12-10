@@ -35,7 +35,7 @@
           id="email"
           name="email"
           bind:value={email}
-          placeholder="buzz@astronot.com"
+          placeholder="amr.moh.abdelaziz@gmail.com"
           color={emailColor}
           required
         />

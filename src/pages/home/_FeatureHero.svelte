@@ -19,28 +19,27 @@
       <svelte:fragment slot="paragraph">
         <div class="block">
           <p>
-            I am currently working at <span class="text-primary-200">Microsft</span> as a Sr. Principal Applied Scientist.
-            I was staff research scientist and manager at <span class="text-primary-200">NewsBreak</span> (series C startup).
-            I was a senior research scientist at <span class="text-primary-200">Facebook</span> Seattle & <span class="text-primary-200">Google</span> Research
-            in Zurich, Switzerland with a focus on Computer Vision and Ads ranking.
+            I am a Communications Engineer and a graduate of the Military Technical College.
+            I hold a master’s degree in cryptography and satellite communication security.
+            I work as an engineer in the satellite ground segment and lead the IT team within my organization.
+            I am a self-taught developer with a strong passion for technology.
+            My interests include cybersecurity and artificial intelligence, where I constantly strive to expand my knowledge and stay updated on the latest advancements.
+            I believe in continuous learning and hard work as the keys to professional growth and excellence.
           </p>
           &nbsp;
           <p>
-            I got my MPhil from The Chinese University of Hong Kong supervised
-            by Professor Xiaogang Wang. I was also a member of MMlab and
-            worked closely with Professor Xiaoou Tang. Before CUHK, I got my
-            bachelor from Tsinghua University, where I was a member of the Yao
-            Class. I did my bachelor thesis with Professor Changshui Zhang. I
-            also work with academia through university relationship. I worked
-            closely with ETH CVL led by Professor Luc Van Gool on
-            co-organizing Webvision challenge and workshop.
+            I am a self-taught developer passionate about cybersecurity and artificial intelligence.
+            I started my journey in programming from scratch, teaching myself the fundamentals of coding and software development before diving deeper into understanding cyber threats and protection mechanisms.
+            Additionally, I keen interest in developing AI-powered applications to solve real-world problems.
+            I am committed to continuous learning through research, experimentation, and engaging with tech communities.
+            I aspires to further enhance my skills and work on projects that positively impact the digital landscape.
           </p>
           &nbsp;
           <p>
-            After my daytime research, I am a contributor to scikit-learn. A
-            Kaggle Master. Reviewer for computer vision journals and
-            conferences. A book lover, a DIYer and a traveler (30+ countries
-            and counting).
+            After my daytime research, I am a fitness enthusiast, and a traveler.
+            I love exploring new places and immersing myself in different cultures.
+           I also enjoy spending time with my family and friends, and I am always looking for new experiences to broaden my perspective.
+           I believe that a well-rounded life is essential for personal growth and happiness, and I strive to balance my professional pursuits with my personal interests and passions.
           </p>
         </div>
       </svelte:fragment>
