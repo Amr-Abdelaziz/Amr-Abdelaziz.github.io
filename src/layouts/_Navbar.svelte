@@ -19,7 +19,7 @@
   let activeUrl: string = "";
   let innerWidth: number;
 
-  const name = "Amr Abdelaziz"; // TODO: Make this a param, site config
+  const name = "AI Automations"; // TODO: Make this a param, site config
 
   $: isHamburgerMenu = innerWidth < HAMBURGER_BREAKPOINT;
 
@@ -91,11 +91,12 @@
         >
           <NavLi href="/">Home</NavLi>
           <NavLi href="/blog">Blog</NavLi>
+          <NavLi href="/about">About</NavLi>
 
           <NavLi href="/contact">Contact</NavLi>
-          <NavLi href="https://github.com/Amr-Abdelaziz" target="_blank"
+          <!-- <NavLi href="https://github.com/Amr-Abdelaziz" target="_blank"
             >Github</NavLi
-          >
+          > -->
         </NavUl>
         <DarkMode btnClass="ml-4 text-white" size="lg" />
       </div>

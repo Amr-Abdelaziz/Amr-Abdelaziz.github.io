@@ -9,39 +9,90 @@
   <div class="mr-auto place-self-center lg:col-span-7">
     <HeroHeader h1Class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white" pClass="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
       <svelte:fragment slot="h1">
-        Me In a
-        <mark
-          class="my-1 rounded bg-primary-50 px-2 py-0 text-white dark:bg-primary-700"
-          >Nutshell</mark
-        >
-        🌰
+        <p>
+          <span class="p">
+            AI<br/>
+            Automation<br/>
+        </span>
+      </p>
       </svelte:fragment>
       <svelte:fragment slot="paragraph">
         <div class="block">
           <p>
-            I am a Communications Engineer and a graduate of the Military Technical College.
-            I hold a master’s degree in cryptography and satellite communication security.
-            I work as an engineer in the satellite ground segment and lead the IT team within my organization.
-            I am a self-taught developer with a strong passion for technology.
-            My interests include cybersecurity and artificial intelligence, where I constantly strive to expand my knowledge and stay updated on the latest advancements.
-            I believe in continuous learning and hard work as the keys to professional growth and excellence.
+            <span class="font-bold">AI DEVELOPMENT</span>
+
+              <span><br/>I craft intelligent solutions tailored for health and wellness startups, including custom chatbots, AI tools, and seamless integrations.
+                         I offer drive growth, optimize processes, and enhance communication, elevating your business and amplifying your impact on people's lives.
+          </span>
+          <br/>
           </p>
           &nbsp;
           <p>
-            I am a self-taught developer passionate about cybersecurity and artificial intelligence.
-            I started my journey in programming from scratch, teaching myself the fundamentals of coding and software development before diving deeper into understanding cyber threats and protection mechanisms.
-            Additionally, I keen interest in developing AI-powered applications to solve real-world problems.
-            I am committed to continuous learning through research, experimentation, and engaging with tech communities.
-            I aspires to further enhance my skills and work on projects that positively impact the digital landscape.
+          <span>
+            <span class="font-bold">LEAD GENERATION</span>
+              <br/>My AI-powered lead generation solutions are designed specifically for health and wellness startups.
+               By leveraging custom chatbots and personalized integrations,
+                I streamline your lead acquisition and management processes, allowing you to focus on what truly matters – helping more people achieve their health goals.
+          </span>
+          <br/>
           </p>
           &nbsp;
           <p>
-            After my daytime research, I am a fitness enthusiast, and a traveler.
-            I love exploring new places and immersing myself in different cultures.
-           I also enjoy spending time with my family and friends, and I am always looking for new experiences to broaden my perspective.
-           I believe that a well-rounded life is essential for personal growth and happiness, and I strive to balance my professional pursuits with my personal interests and passions.
+          <span >
+            <span class="font-bold">CRM AUTOMATION</span>
+              <br/>Optimize your client relationships with our CRM solutions. I automate and streamline your lead management journey,
+               ensuring both efficiency and a personal touch. This allows your health or wellness startup to concentrate on delivering exceptional services while nurturing strong client connections.
+          </span>
           </p>
-        </div>
+          &nbsp;
+          <p>
+            <span class="font-bold">My mission</span> <span>is to elevate your health and wellness business</span>
+      
+          <span >I am a unique blend of tech experts and health enthusiasts, with over 15 years of combined experience in fintech, startups, design agencies, and the wellness sector.</span>
+          <span >This dual expertise allows me to create automation solutions that truly understand and address the specific needs of health and wellness businesses.</span>
+          <span >I help you automate your workflows to increase productivity, regain control of your time, and amplify your impact on people's health and wellbeing.</span>
+          <span class="font-bold">By partnering with me, you can focus on what matters most – growing your business and transforming lives.</span>
+          </p>
+          &nbsp;
+          <p>
+            <span class="font-bold">Say Goodbye To:</span>
+          </p>
+          <div id="list01" class="list">
+              <ul>
+                  <li>
+                      <p>Potential clients lost due to slow follow-ups</p>
+                  </li>
+                  <li>
+                      <p>Wasted hours chasing unqualified leads</p>
+                  </li>
+                  <li>
+                      <p>Repetitive tasks that drain your energy</p>
+                  </li>
+              </ul>
+          </div>
+          &nbsp;
+          <p>
+            <span class="font-bold">Say Hello To:</span>
+          </p>
+          <div id="list02" class="list">
+              <ul>
+                  <li>
+                      <p>More qualified leads in the health and wellness space</p>
+                  </li>
+                  <li>
+                      <p>Higher conversion rates for your programs and services</p>
+                  </li>
+                  <li>
+                      <p>Reduced admin hours, giving you more time for customers</p>
+                  </li>
+                  <li>
+                      <p>Innovative AI solutions that set you apart in the wellness industry</p>
+                  </li>
+              </ul>
+          </div>
+      </div>
+         
+       
       </svelte:fragment>
   </HeroHeader>
   </div>

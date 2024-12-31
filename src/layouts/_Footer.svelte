@@ -39,7 +39,7 @@
           <a
             class="flex-none text-xl font-semibold text-gray-100"
             href="/"
-            aria-label="Brand">AstroNot</a
+            aria-label="Brand">AI&Automations</a
           >
         </div>
         <div
@@ -55,7 +55,7 @@
           </FooterLinkGroup>
           <FooterCopyright
             href="https://opensource.org/license/mit/"
-            by="AstroNot 🚀🌚&nbsp;"
+            by="AI&Automations 🚀🌚&nbsp;"
             copyrightMessage="Open Source & Free Forever ❤️"
             spanClass="text-xs text-grey-900"
           />
@@ -63,7 +63,7 @@
 
         <div class="mt-4 flex items-center justify-center space-x-6 sm:mt-0">
           <FooterIcon
-            href="https://linkedin.com/weilinear"
+            href="https://linkedin.com/in/amr-abdelaziz-2876ab183"
             target="_blank"
           >
             <LinkedinSolid
@@ -71,7 +71,7 @@
             />
           </FooterIcon>
           <FooterIcon
-            href="https://twitter.com/weilinear"
+            href="https://x.com/AmrMoh51457165"
             target="_blank"
           >
             <TwitterSolid
